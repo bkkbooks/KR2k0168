@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2k0168/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 梁州記武侯壘武侯壘東南有定軍山八十餘里有諸葛武侯墓鍾會征蜀至漢川祭亮之墓令軍士不得於墓芻啓樵采今松柏碑銘儼然白水關關城西南百八十里有白水關固解印授處也溫泉漢水南有溫泉周圍數千步冬夏當沸涌若湯其熱可熟雞子盟壇沔陽城在漢水南舊蕭何所築也劉備為漢王權住此城盟於城下今門外有盟壇猶存諸葛井諸葛亮宅有井深四尺餘口廣一尺五寸纍磚如初開云雁塞梁州縣界有鴈塞山傳云此山有大池水鴈樓集之故因名曰鴈塞
+  hash: sha256:235ec8e026fe83a7f8686e034529906d331a858fc204f8f87b05be40f8cdb4ea
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2k0168_CHANT_001-1a.1-h}
+metadata:
+  title: 梁州記
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0168.xml
+hash: sha256:4870785d74e79dfe648b238a9f9f6e9d130c75889d5465c303bb69451f5d8085
